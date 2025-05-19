@@ -20,7 +20,6 @@ class AppDatabase extends _$AppDatabase {
   @override
   late final expensesDao = ExpensesDao(this);
 
-  // Вспомогательная функция для создания базы с подключением
   Future<AppDatabase> createDatabase() async {
     final dir = await getApplicationDocumentsDirectory();
     final file = File(p.join(dir.path, 'budgetly.sqlite'));
