@@ -1,16 +1,21 @@
-# budgetly
+# 💸 Budgetly
 
-An app to track your expenses in everyday life
+**Budgetly** is a simple and elegant Flutter app for tracking your daily expenses.  
+It helps you stay mindful of your spending habits and make smarter financial decisions — one purchase at a time.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 📅 **Track daily expenses** with categories like food, transport, shopping, and more  
+- 📊 **Visualize your spending** using a pie chart by category  
+- 🗂️ **Categorize expenses** for better clarity  
+- 📝 **Add comments** to each expense (optional)  
+- 💰 **Multi-currency support** (currently defaults to USD)  
+- 🧹 **Swipe to delete** for fast cleanup  
+- 🗃️ **Data persistence** with local database (Drift)
 
-A few resources to get you started if this is your first Flutter project:
+## 🔧 Upcoming Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+These features are planned and coming soon:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📆 **Calendar integration** to view and manage expenses by date
+- ⚙️ **Settings page** to customize preferences like currency, categories, and themes
